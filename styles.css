@@ -391,9 +391,6 @@ footer{
             - bottom: 16px
             - left: 60px
 */
-#section2 div > p:last-of-type{
-    
-}
 
  /* For the div wrapped around that paragraph to show the space its taking up within its container */
 #section2 div{
